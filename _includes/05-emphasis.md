@@ -1,1 +1,9 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Skills
+Below is a _list_ of **technical skills**
+- _JAVA_
+- _SQL_
+- _PL/SQL_
+- _GIT_
+- _GITHUB_
+- _Python_
+- _Google Cloud_
